@@ -1,0 +1,6 @@
+pandas
+numpy
+torch
+requests
+python-dotenv
+websockets
